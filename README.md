@@ -27,6 +27,8 @@ The project combines **OCR, local language descriptions, and AI (RAG)** to gener
 - **Datasets**: HuggingFace Datasets integration  
 - **Backend**: Python
 
+## 🚀 Hosted on Streamlit
+[Click to Run the App](https://landmark-mapper-dnnrylgcng5oasbookxx5e.streamlit.app/)
 
 
 
