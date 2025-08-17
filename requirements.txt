@@ -1,0 +1,7 @@
+streamlit
+pytesseract
+Pillow
+transformers
+datasets
+torch
+faiss-cpu
